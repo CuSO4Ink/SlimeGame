@@ -1,3 +1,3 @@
-# Test1
+# SlimeGame
 
 Developed with Unreal Engine 5
