@@ -30,10 +30,6 @@
 		{
 			"Name": "HoudiniEngine",
 			"Enabled": true
-		},
-		{
-			"Name": "UdpMessaging",
-			"Enabled": false
 		}
 	]
 }
